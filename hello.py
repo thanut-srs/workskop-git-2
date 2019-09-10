@@ -1,3 +1,12 @@
 print("Hello my friend")
 print('Goodbye my friend')
 print('Welcome my friend')
+print 'Hello my friend'
+print('Dev 1st commit')
+print('Dev 2nd commit')
+print('Dev 3rd commit')
+print('Dev 4th commit')
+print('feature 1st commit')
+print('feature 2nd commit')
+print('release 1st commit')
+print('release 2nd commit')
